@@ -1,0 +1,221 @@
+[
+    {
+      "id": 1,
+      "name": "Jane Cooper",
+      "company": "Microsoft",
+      "number": "(225) 555-0118",
+      "email": "jane@microsoft.com",
+      "country": "United States",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Floyd Miles",
+      "company": "Yahoo",
+      "number": "(205) 555-0100",
+      "email": "floyd@yahoo.com",
+      "country": "Kiribati",
+      "status": "Inactive"
+    },
+    {
+      "id": 3,
+      "name": "Ronald Richards",
+      "company": "Adobe",
+      "number": "(302) 555-0107",
+      "email": "ronald@adobe.com",
+      "country": "Israel",
+      "status": "Inactive"
+    },
+    {
+      "id": 4,
+      "name": "Marvin McKinney",
+      "company": "Tesla",
+      "number": "(252) 555-0126",
+      "email": "marvin@tesla.com",
+      "country": "Iran",
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "name": "Jerome Bell",
+      "company": "Google",
+      "number": "(629) 555-0129",
+      "email": "jerome@google.com",
+      "country": "Reunion",
+      "status": "Active"
+    },
+    {
+      "id": 6,
+      "name": "Kathryn Murphy",
+      "company": "Microsoft",
+      "number": "(406) 555-0120",
+      "email": "kathryn@microsoft.com",
+      "country": "Curacao",
+      "status": "Active"
+    },
+    {
+      "id": 7,
+      "name": "Jacob Jones",
+      "company": "Yahoo",
+      "number": "(208) 555-0112",
+      "email": "jacob@yahoo.com",
+      "country": "Brazil",
+      "status": "Active"
+    },
+    {
+      "id": 8,
+      "name": "Kristin Watson",
+      "company": "Facebook",
+      "number": "(704) 555-0127",
+      "email": "kristin@facebook.com",
+      "country": "Aland Islands",
+      "status": "Inactive"
+    },
+    {
+      "id": 9,
+      "name": "Aiden Bennett",
+      "company": "Apple",
+      "number": "(123) 555-6789",
+      "email": "aiden@apple.com",
+      "country": "Canada",
+      "status": "Active"
+    },
+    {
+      "id": 10,
+      "name": "Sophia Davis",
+      "company": "Samsung",
+      "number": "(456) 555-9876",
+      "email": "sophia@samsung.com",
+      "country": "Australia",
+      "status": "Inactive"
+    },
+    {
+      "id": 11,
+      "name": "Ethan Edwards",
+      "company": "Amazon",
+      "number": "(789) 555-1234",
+      "email": "ethan@amazon.com",
+      "country": "Germany",
+      "status": "Active"
+    },
+    {
+      "id": 12,
+      "name": "Olivia Fisher",
+      "company": "Netflix",
+      "number": "(101) 555-2345",
+      "email": "olivia@netflix.com",
+      "country": "France",
+      "status": "Inactive"
+    },
+    {
+      "id": 13,
+      "name": "Liam Garcia",
+      "company": "Tesla",
+      "number": "(202) 555-3456",
+      "email": "liam@tesla.com",
+      "country": "Japan",
+      "status": "Active"
+    },
+    {
+      "id": 14,
+      "name": "Emma Harris",
+      "company": "Google",
+      "number": "(303) 555-4567",
+      "email": "emma@google.com",
+      "country": "Spain",
+      "status": "Active"
+    },
+    {
+      "id": 15,
+      "name": "Noah Johnson",
+      "company": "Microsoft",
+      "number": "(404) 555-5678",
+      "email": "noah@microsoft.com",
+      "country": "Italy",
+      "status": "Inactive"
+    },
+    {
+      "id": 16,
+      "name": "Isabella King",
+      "company": "Facebook",
+      "number": "(505) 555-6789",
+      "email": "isabella@facebook.com",
+      "country": "United Kingdom",
+      "status": "Active"
+    },
+    {
+      "id": 17,
+      "name": "Lucas Lee",
+      "company": "Twitter",
+      "number": "(606) 555-7890",
+      "email": "lucas@twitter.com",
+      "country": "Mexico",
+      "status": "Inactive"
+    },
+    {
+      "id": 18,
+      "name": "Mia Miller",
+      "company": "Uber",
+      "number": "(707) 555-8901",
+      "email": "mia@uber.com",
+      "country": "Brazil",
+      "status": "Active"
+    },
+    {
+      "id": 19,
+      "name": "Jackson Moore",
+      "company": "SpaceX",
+      "number": "(808) 555-9012",
+      "email": "jackson@spacex.com",
+      "country": "South Africa",
+      "status": "Active"
+    },
+    {
+      "id": 20,
+      "name": "Lily Nelson",
+      "company": "LinkedIn",
+      "number": "(909) 555-0123",
+      "email": "lily@linkedin.com",
+      "country": "China",
+      "status": "Inactive"
+    },
+    {
+      "id": 21,
+      "name": "Caden Parker",
+      "company": "Snapchat",
+      "number": "(010) 555-2345",
+      "email": "caden@snapchat.com",
+      "country": "India",
+      "status": "Active"
+    },
+    {
+      "id": 22,
+      "name": "Ava Ramirez",
+      "company": "WhatsApp",
+      "number": "(111) 555-3456",
+      "email": "ava@whatsapp.com",
+      "country": "Russia",
+      "status": "Inactive"
+    },
+    {
+      "id": 23,
+      "name": "Mason Reed",
+      "company": "Adobe",
+      "number": "(212) 555-4567",
+      "email": "mason@adobe.com",
+      "country": "Netherlands",
+      "status": "Active"
+    },
+    {
+      "id": 24,
+      "name": "Harper Turner",
+      "company": "Oracle",
+      "number": "(313) 555-5678",
+      "email": "harper@oracle.com",
+      "country": "Sweden",
+      "status": "Active"
+    }
+  ]
+
+  
+  
