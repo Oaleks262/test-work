@@ -10,7 +10,7 @@ costumer.addEventListener("click", function(e){
     product.style.display = "flex";
     content.style.display = "flex";
     resetMenuStyles();
-    costumer.style.backgroundColor = "lightblue";  // або будь-який інший стиль, який ви хочете використовувати
+    costumer.style.backgroundColor = "lightblue"; 
 });
 
 helper.addEventListener("click", function(e){
@@ -168,31 +168,27 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 
   let navbar = document.querySelector(".nav");
-  let navDashboard = document.querySelector(".nav-dashboard");
+  let navDashboard = document.querySelector(".nav-dashboard-mob");
   
   let buttstat = document.querySelector(".stat");
   let buttclose = document.querySelector('.close');
 
+ 
   navDashboard.addEventListener("click", function (e) {
-    if (navbar.style.display === "flex") {
-        navbar.style.display = "none";
-        buttstat.style.display = "flex";
-        buttclose.style.display = "none";
-    } else {
-        navbar.style.display = "flex";
-        buttstat.style.display = "none";
-        buttclose.style.display = "flex";
-    }
-    e.stopPropagation();
-});
+      if (navbar.style.display === "flex") {
+          navbar.style.display = "none";
+          buttstat.style.display = "flex";
+          buttclose.style.display = "none";
+      } else {
+          navbar.style.display = "flex";
+          buttstat.style.display = "none";
+          buttclose.style.display = "flex";
+      }
+      e.stopPropagation();
+  });
+  
 
-document.addEventListener("click", function (e) {
-    if (!navbar.contains(e.target) && !navDashboard.contains(e.target)) {
-        navbar.style.display = "none";
-        buttstat.style.display = "flex";
-        buttclose.style.display = "none";
-    }
-});
+  
 
 
 

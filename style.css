@@ -75,6 +75,21 @@ nav{
     padding: 11px;
     margin-left: 11px;
 }
+.nav-dashboard-mob{
+    display: none;
+    width: 260px;
+    flex-direction: row;
+    gap: 14px;
+    color: #9197B3;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.14px;
+    padding: 11px;
+    margin-left: 11px;
+}
 .butt-link{
     display: flex;
     width: 260px;
@@ -433,6 +448,13 @@ ul{
         padding: 0;
         font-size: 10px;
     }
+    .nav-dashboard{
+        display: none;
+    }
+    .nav-dashboard-mob{
+        display: flex;
+        justify-content: space-between;
+    }
     .list-li{
         padding: 0;
         font-size: 10px;
@@ -445,9 +467,6 @@ ul{
     }
     .login-user{
         display: none;
-    }
-    .nav-dashboard{
-        justify-content: space-between;
     }
     .stat{
         display: flex;
