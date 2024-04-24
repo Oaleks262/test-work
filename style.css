@@ -438,6 +438,11 @@ ul{
         display: none;
         margin: 20px 5px ;
     }
+    .side-menu{
+        padding: 0;
+        max-width: 100%;
+        align-items: center;
+    }
     .product{
         margin-left: 0;
         padding: 0 10px;
@@ -475,6 +480,7 @@ ul{
     nav{
         display: none;
         gap: 0;
+        align-items: center;
     }
     .title{
         display: none;
