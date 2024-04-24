@@ -275,7 +275,8 @@ ul{
     border-radius: 10px;
     flex-direction: row;
     justify-content: space-between;
-    align-items: start;
+    align-items: center;
+    text-align: start;
     border-bottom: 1px solid #EEE;
 }
 .list-li:hover{
